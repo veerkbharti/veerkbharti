@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Veer Kunwer Bharti
+- 👋 Hi, I’m Veer Kunwer Bharti <a href="https://app.daily.dev/veerkbharti"><img src="https://api.daily.dev/devcards/6cee904bbae74b1d9c2ffd5363e52a3f.png?r=qi5" width="400" alt="Veer Kunwer Bharti's Dev Card"/></a>
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
