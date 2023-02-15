@@ -7,12 +7,6 @@ I love to learn and grow in my field, and I'm always excited about the opportuni
 # Let's Connect
 If you're looking for a talented developer to join your team, or you want to collaborate on a project, I'd love to hear from you! Feel free to connect with me here on GitHub.
 
-- 👋 Hi, I’m Veer Kunwer Bharti
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me veerkbharti@gmail.com
-
 <!---
 veerkbharti/veerkbharti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
