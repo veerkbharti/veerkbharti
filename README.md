@@ -2,7 +2,7 @@
 My name is Veer Kunwer Bharti, and I'm a passionate full stack developer with 2 years of experience building web applications. I'm proficient in a variety of technologies, including JavaScript, Node.js, React, Angular, SQL/NoSQL databases, and Git.
 
 # About Me
-I love to learn and grow in my field, and I'm always excited about the opportunities to collaborate and contribute to innovative projects. When I'm not coding, you can find me hiking, playing soccer, or reading a good book.
+I love to learn and grow in my field, and I'm always excited about the opportunities to collaborate and contribute to innovative projects. When I'm not coding, you can find me startup, building business, or reading a good book.
 
 # Let's Connect
 If you're looking for a talented developer to join your team, or you want to collaborate on a project, I'd love to hear from you! Feel free to connect with me here on GitHub.
