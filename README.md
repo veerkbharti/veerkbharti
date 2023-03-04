@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Veer Kunwer Bharti, and I'm a passionate full stack developer with 2 years of experience building web applications. I'm proficient in a variety of technologies, including JavaScript, Node.js, React, Angular, SQL/NoSQL databases, and Git.
+My name is Veer Kunwer Bharti, and I'm a passionate full stack developer with 3 years of experience building web applications. I'm proficient in a variety of technologies, including JavaScript, Node.js, React, Angular, SQL/NoSQL databases, and Git.
 
 # About Me
 I love to learn and grow in my field, and I'm always excited about the opportunities to collaborate and contribute to innovative projects. When I'm not coding, you can find me startup, building business, or reading a good book.
