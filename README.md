@@ -89,4 +89,4 @@ You can click the Preview link to take a look at your changes.
 <p><a href="https://www.buymeacoffee.com/veerkbharti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="veerkbharti" /></a></p><br><br>
 
 <br>
-<p align="center"><a href="https://app.daily.dev/veerkbharti"><img src="https://api.daily.dev/devcards/6cee904bbae74b1d9c2ffd5363e52a3f.png?r=qi5" width="400" alt="Veer Kunwer Bharti's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/veerkbharti"><img src="https://api.daily.dev/devcards/v2/9c2TduX5aK7RZOVx1YI4u.png?type=default&r=mla" width="356" alt="Veer Kunwer Bharti's Dev Card"/></a></p>
